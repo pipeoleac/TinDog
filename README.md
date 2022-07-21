@@ -1,2 +1,2 @@
 # TinDog
-app Tinder para perro, hecho con boostrap, responsive design
+app Tinder para perros, hecho con boostrap, responsive design
